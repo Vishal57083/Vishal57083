@@ -1,4 +1,4 @@
-###👋 **VISHAL KUMAR YADAV**  
+### 👋 **VISHAL KUMAR YADAV**  
 Welcome to my GitHub profile!
 
 I'm an aspiring full-stack developer passionate about creating innovative software solutions, currently pursuing a **B.E. in Computer Science** at Erode Sengunthar Engineering College (2022–2026). I love coding with Java, React.js, and SQL while exploring new technologies.
